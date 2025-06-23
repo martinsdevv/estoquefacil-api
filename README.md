@@ -48,7 +48,7 @@ http://localhost:8080/swagger-ui.html
 ### 📁 Categoria
 
 #### 🔸 Criar Categoria
-![criar-categoria](docs\criar-categoria.png)
+![criar-categoria](docs/criar-categoria.png)
 
 #### 🔸 Listar Categorias
 ![listar-categoria](docs/listar-categoria.png)
