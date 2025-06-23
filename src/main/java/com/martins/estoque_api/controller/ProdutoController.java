@@ -1,6 +1,7 @@
 package com.martins.estoque_api.controller;
 
 import com.martins.estoque_api.dto.ProdutoCreateDTO;
+import com.martins.estoque_api.dto.CategoriaDTO;
 import com.martins.estoque_api.dto.ProdutoDTO;
 import com.martins.estoque_api.model.Categoria;
 import com.martins.estoque_api.model.Produto;
@@ -89,7 +90,10 @@ public class ProdutoController {
         dto.setDescricao(produto.getDescricao());
         dto.setPreco(produto.getPreco());
         dto.setQuantidade(produto.getQuantidade());
-        dto.setCategoria(produto.getCategoria().getNome());
+        CategoriaDTO categoriaDTO = new CategoriaDTO();
+        categoriaDTO.setId(produto.getCategoria().getId());
+        categoriaDTO.setNome(produto.getCategoria().getNome());
+        dto.setCategoria(categoriaDTO);
         return dto;
     }
 
