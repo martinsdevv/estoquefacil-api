@@ -48,34 +48,34 @@ http://localhost:8080/swagger-ui.html
 ### 📁 Categoria
 
 #### 🔸 Criar Categoria
-![criar-categoria](docs/criar-categoria.png)
+![criar-categoria](docs/criar-categoria.PNG)
 
 #### 🔸 Listar Categorias
-![listar-categoria](docs/listar-categoria.png)
+![listar-categoria](docs/listar-categoria.PNG)
 
 ---
 
 ### 📦 Produto
 
 #### 🔸 Criar Produto
-![criar-produto](docs/criar-produto.png)
+![criar-produto](docs/criar-produto.PNG)
 
 #### 🔸 Listar Produtos
-![listar-produto](docs/listar-produto.png)
+![listar-produto](docs/listar-produto.PNG)
 
 #### 🔸 Buscar Produto por ID
-![buscar-produto](docs/buscar-produto.png)
+![buscar-produto](docs/buscar-produto.PNG)
 
 #### 🔸 Atualizar Produto
-![atualizar-produto](docs/atualizar-produto.png)
+![atualizar-produto](docs/atualizar-produto.PNG)
 
 #### 🔸 Entrada de Estoque
-![entrada-estoque](docs/entrada-estoque.png)
+![entrada-estoque](docs/entrada-estoque.PNG)
 
 #### 🔸 Saída de Estoque
-![saida-estoque](docs/saida-estoque.png)
+![saida-estoque](docs/saida-estoque.PNG)
 
 #### 🔸 Deletar Produto
-![deletar-produto](docs/deletar-produto.png)
+![deletar-produto](docs/deletar-produto.PNG)
 
 ---
